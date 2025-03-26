@@ -1,1 +1,1 @@
-# Landscape-fire-and-children-morbidity
+This file provides data and main codes for performing time-series analyses presented in the paper: Impact of global short-term landscape fire sourced PM2.5 exposure on child cause-specific morbidity: a study in multiple countries and territories
